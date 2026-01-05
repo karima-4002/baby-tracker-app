@@ -25,4 +25,16 @@ cd suivibebe
 npm install
 npx expo start
 
+## 📸 Captures d'écran
+
+ Écran de Connexion
+![Login Screen](screenshots/login.png)
+
+ Écran d'Inscription
+![Register Screen](screenshots/register.png)
+
+ Dashboard Principal
+![Dashboard](screenshots/dashboard.png)
+
+
 
